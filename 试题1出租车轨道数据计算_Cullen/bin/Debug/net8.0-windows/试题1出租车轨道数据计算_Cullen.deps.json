@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "试题1出租车轨道数据计算_Cullen/1.0.0": {
+        "runtime": {
+          "试题1出租车轨道数据计算_Cullen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "试题1出租车轨道数据计算_Cullen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
