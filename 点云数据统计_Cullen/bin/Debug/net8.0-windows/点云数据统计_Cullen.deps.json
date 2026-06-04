@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "点云数据统计_Cullen/1.0.0": {
+        "runtime": {
+          "点云数据统计_Cullen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "点云数据统计_Cullen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

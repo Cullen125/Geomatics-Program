@@ -1,0 +1,17 @@
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.点云数据统计_Cullen.resources
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.Properties.Resources.resources
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.csproj.GenerateResource.cache
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.AssemblyInfoInputs.cache
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.AssemblyInfo.cs
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.csproj.CoreCompileInputs.cache
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\bin\Debug\net8.0-windows\点云数据统计_Cullen.exe
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\bin\Debug\net8.0-windows\点云数据统计_Cullen.deps.json
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\bin\Debug\net8.0-windows\点云数据统计_Cullen.runtimeconfig.json
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\bin\Debug\net8.0-windows\点云数据统计_Cullen.dll
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\bin\Debug\net8.0-windows\点云数据统计_Cullen.pdb
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.dll
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\refint\点云数据统计_Cullen.dll
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.pdb
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\点云数据统计_Cullen.genruntimeconfig.cache
+D:\工作\大二\编程\测绘技能大赛\练习\点云数据统计_Cullen\obj\Debug\net8.0-windows\ref\点云数据统计_Cullen.dll
