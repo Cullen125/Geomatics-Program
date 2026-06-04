@@ -1,0 +1,17 @@
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\bin\Debug\net8.0-windows\空间前方交会_Cullen.exe
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\bin\Debug\net8.0-windows\空间前方交会_Cullen.deps.json
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\bin\Debug\net8.0-windows\空间前方交会_Cullen.runtimeconfig.json
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\bin\Debug\net8.0-windows\空间前方交会_Cullen.dll
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\bin\Debug\net8.0-windows\空间前方交会_Cullen.pdb
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.Form1.resources
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.Properties.Resources.resources
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.csproj.GenerateResource.cache
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.AssemblyInfoInputs.cache
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.AssemblyInfo.cs
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.csproj.CoreCompileInputs.cache
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.dll
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\refint\空间前方交会_Cullen.dll
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.pdb
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\空间前方交会_Cullen.genruntimeconfig.cache
+D:\工作\大二\编程\测绘技能大赛\练习\空间前方交会\空间前方交会_Cullen\obj\Debug\net8.0-windows\ref\空间前方交会_Cullen.dll
