@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "试题9坐标系转换", "试题9坐标系转换.csproj", "{F70FF2D7-5C65-4657-A131-42D937025DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70FF2D7-5C65-4657-A131-42D937025DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70FF2D7-5C65-4657-A131-42D937025DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70FF2D7-5C65-4657-A131-42D937025DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70FF2D7-5C65-4657-A131-42D937025DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB64EF89-AF2D-4FAE-BEB5-F1ED7EBFE8F1}
+	EndGlobalSection
+EndGlobal
